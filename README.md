@@ -4,10 +4,6 @@
 
 https://simpleicons.org ICONS--->
 
-<div align=center>
-<img alt="Static Badge" src="https://img.shields.io/badge/link%20para%20o%20livro-ffa6d2?link=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F19zAExTjW9w7QnxPVDxjrghIxyr0G0TAf%2Fview%3Fusp%3Ddrive_link">
-</div>
-
 <br>
 
 ## 💻 Tecnologias
